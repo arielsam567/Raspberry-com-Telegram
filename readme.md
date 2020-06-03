@@ -4,12 +4,12 @@ Este projeto foi feito para a matéria PRÁTICA NA FÁBRICA EXPERIMENTAL DE SOFT
 Tutorial de como criar o bot no Telegram, pegar o chat_id e o tokenAccess
 https://www.filipeflop.com/blog/telegram-bot-com-raspberry-pi-3/
 
-Comandos que podem ser ultilizados
-On                 - Aciona o detector de faces
-Off                - Desliga o detector de faces
-Foto               - Recebe uma foto da camera
-Delay:(numero)     - Altera o valor de tempoDeEspera
-Help               - Retorna os comandos que podem ser utilizados 
+#Comandos que podem ser ultilizados
+- On                 - Aciona o detector de faces
+- Off                - Desliga o detector de faces
+- Foto               - Recebe uma foto da camera
+- Delay:(numero)     - Altera o valor de tempoDeEspera
+- Help               - Retorna os comandos que podem ser utilizados 
 
 Bibliotecas utilizadas: `OpenCV` e `Telepot'
 
