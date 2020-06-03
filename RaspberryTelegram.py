@@ -6,8 +6,8 @@ import datetime
 
 video = cv2.VideoCapture(0)
 classificador = cv2.CascadeClassifier('HaarCascade/haarcascade-frontalface-default.xml')
-chat_id = 999999999 
-tokenAccess = '1010101010:353535353535353533535353535'
+chat_id = 999999999 #coloque o seu chat_id
+tokenAccess = '1010101010:353535353535353533535353535' #coloque o seu tokenAccess
 
 # Tutorial de como criar o bot no Telegram 
 # E pegar o chat_id
