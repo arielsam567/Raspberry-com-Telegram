@@ -15,30 +15,17 @@ Bibliotecas utilizadas: `OpenCV` e `Telepot`
 
 **Script necessário para baixar as dependências no Raspberry**
 ```
-`sudo apt-get update`
-
-`sudo apt-get -y install python-pip`
-
-`sudo apt-get -y install python-git `
-
-`sudo apt-get -y install python-numpy `
-
-`sudo apt-get -y install python-scipy `
-
-`sudo apt-get -y install python-opencv `
-
-`sudo pip install --upgrade cython`
-
-`sudo pip install -U scikit-learn` 
-
-`sudo pip install imutil`
-
-`sudo apt-get -y install python-sklearn`
-
-`sudo apt-get -y install python-skimage`  
-
-`sudo pip3 install telepot`
-
-`git clone https://github.com/nickoala/telepot.git`
-
+sudo apt-get update`
+sudo apt-get -y install python-pip
+sudo apt-get -y install python-git 
+sudo apt-get -y install python-numpy 
+sudo apt-get -y install python-scipy 
+sudo apt-get -y install python-opencv 
+sudo pip install --upgrade cython
+sudo pip install -U scikit-learn
+sudo pip install imutil
+sudo apt-get -y install python-sklearn
+sudo apt-get -y install python-skimage
+sudo pip3 install telepot
+git clone https://github.com/nickoala/telepot.git
 ```
