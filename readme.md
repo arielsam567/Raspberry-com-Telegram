@@ -15,7 +15,7 @@ Bibliotecas utilizadas: `OpenCV` e `Telepot`
 
 **Script necessário para baixar as dependências no Raspberry**
 ```
-sudo apt-get update`
+sudo apt-get update
 sudo apt-get -y install python-pip
 sudo apt-get -y install python-git 
 sudo apt-get -y install python-numpy 
