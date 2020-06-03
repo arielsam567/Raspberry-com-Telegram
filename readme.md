@@ -1,10 +1,10 @@
 # Raspberry com Telegram
-Este projeto foi feito para a matéria PRÁTICA NA FÁBRICA EXPERIMENTAL DE SOFTWARE IV. Utilizou-se um Raspberry Pi 3 modelo B, juntamente com uma câmera. O SO utilizado foi o Noobs.
+Este projeto foi feito para a matéria Prática na Fábrica Experimental De Software IV. Utilizou-se um Raspberry Pi 3 modelo B, juntamente com uma câmera. O SO utilizado foi o Noobs.
 
 Tutorial de como criar o bot no Telegram, pegar o chat_id e o tokenAccess
 https://www.filipeflop.com/blog/telegram-bot-com-raspberry-pi-3/
 
-#Comandos que podem ser ultilizados
+# h2 Comandos que podem ser ultilizados
 - On                 - Aciona o detector de faces
 - Off                - Desliga o detector de faces
 - Foto               - Recebe uma foto da camera
