@@ -14,7 +14,7 @@ Este projeto foi feito para a matéria Prática na Fábrica Experimental De Soft
 Bibliotecas utilizadas: `OpenCV` e `Telepot`
 
 **Script necessário para baixar as dependências no Raspberry**
-
+```
 `sudo apt-get update`
 
 `sudo apt-get -y install python-pip`
@@ -40,3 +40,5 @@ Bibliotecas utilizadas: `OpenCV` e `Telepot`
 `sudo pip3 install telepot`
 
 `git clone https://github.com/nickoala/telepot.git`
+
+```
