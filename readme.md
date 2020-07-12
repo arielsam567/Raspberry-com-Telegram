@@ -5,10 +5,16 @@ Este projeto foi feito para a matéria Prática na Fábrica Experimental De Soft
 
 
 ## Comandos que podem ser ultilizados
-- On                 - Aciona o detector de faces
+- On                 - Aciona o detector de movimento
+- On:2               - Aciona o detector de faces
 - Off                - Desliga o detector de faces
+- Config             - Retorna os valores configurados
 - Foto               - Recebe uma foto da camera
-- Delay:(numero)     - Altera o valor de tempoDeEspera
+- Delay: n           - Altera o valor de tempoDeEspera
+- Altura_max: n      - Altera o valor de altura_max
+- Altura_min: n      - Altera o valor de altura_min
+- Largura_max: n     - Altera o valor de largura_max
+- Largura_min: n     - Altera o valor de largura_min
 - Help               - Retorna os comandos que podem ser utilizados 
 
 Bibliotecas utilizadas: `OpenCV` e `Telepot`
@@ -21,11 +27,5 @@ sudo apt-get -y install python-git
 sudo apt-get -y install python-numpy 
 sudo apt-get -y install python-scipy 
 sudo apt-get -y install python-opencv 
-sudo pip install --upgrade cython
-sudo pip install -U scikit-learn
-sudo pip install imutil
-sudo apt-get -y install python-sklearn
-sudo apt-get -y install python-skimage
-sudo pip3 install telepot
-git clone https://github.com/nickoala/telepot.git
+sudo pip install telepot
 ```
